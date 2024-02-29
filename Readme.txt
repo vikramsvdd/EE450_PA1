@@ -12,4 +12,4 @@
 
 6. I believe, if the input data bits are much larger than 64 Kbytes, then my function would run into a segmentation error as I have used a integer variables throughout the program.
 
-7. In the error_detection.cpp program, I have used (https://www.geeksforgeeks.org/c-c-program-to-implement-checksum/) to implement the checksum() function but I have modified it to add some own logic. Other than that for implementing  CRC(), ColumnParity() and RowParity() functions, I referenced some sources, but wrote my own code alike the rest of my code parts.  (https://github.com/avinashav/crc-implementation-using-cpp,GeeksforGeeks and chatGPT).
+7. References: https://www.geeksforgeeks.org/c-c-program-to-implement-checksum/ , https://github.com/avinashav/crc-implementation-using-cpp
